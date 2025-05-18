@@ -15,3 +15,7 @@ This project provides a simple way to convert short audio clips into text using 
   pip install SpeechRecognition
   pip install pyaudio        # Optional, for microphone input
   pip install torch torchaudio transformers
+
+## Output
+
+![Image](https://github.com/user-attachments/assets/15e190f8-67d5-40e0-8391-27c981d8cd3a)
